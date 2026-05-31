@@ -31,7 +31,7 @@ Business Problem:
 Identify factors driving employee attrition.
 
 Results:
-Found overtime and job role to be significant drivers of turnover.
+
 
 Project Link:
 https://github.com/keyswill/hr-analytics-project
@@ -41,6 +41,9 @@ Coming July 2026
 
 ### Customer Churn Analysis
 Coming August 2026
+
+### AI Sentiment Analysis
+Coming September 2026
 
 ## Connect
 
