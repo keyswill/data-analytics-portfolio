@@ -20,7 +20,7 @@ Currently pursuing:
 
 ## Featured Projects
 
-### HR Analytics Project (WIP)
+### HR Analytics Project (WIP/June 2026)
 
 Tools:
 - SQL
@@ -46,6 +46,6 @@ Coming August 2026
 
 LinkedIn: https://www.linkedin.com/in/kiranwilliams/
 
-Portfolio: kiranwilliams.carrd.co
+Portfolio: https://kiranwilliams.carrd.co
 
 Email: kiranwilliams1997@gmail.com
