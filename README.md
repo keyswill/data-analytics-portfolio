@@ -1,13 +1,49 @@
-About Me
+# Kiran Williams
 
-Projects
+Data Analyst | SQL | Tableau | R | Python (Learning)
 
-Skills
+## About Me
 
-Resume
+Data analyst with 6+ years of experience in workforce, education, and operational analytics.
 
-Contact Information
+Currently pursuing:
+- MS Data Analytics
+- MBA
 
-Links to Dashboards
+## Technical Skills
 
-Links to LinkedIn
+- SQL
+- Tableau
+- Excel
+- R
+- Python (Learning)
+
+## Featured Projects
+
+### HR Analytics Project (WIP)
+
+Tools:
+- SQL
+- Python
+- Tableau
+
+Business Problem:
+Identify factors driving employee attrition.
+
+Results:
+Found overtime and job role to be significant drivers of turnover.
+
+Project Link:
+https://github.com/keyswill/hr-analytics-project
+
+### Retail Sales Analytics
+Coming July 2026
+
+### Customer Churn Analysis
+Coming August 2026
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/kiranwilliams/
+Portfolio: kiranwilliams.carrd.co
+Email: kiranwilliams1997@gmail.com
