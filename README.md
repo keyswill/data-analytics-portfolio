@@ -45,5 +45,7 @@ Coming August 2026
 ## Connect
 
 LinkedIn: https://www.linkedin.com/in/kiranwilliams/
+
 Portfolio: kiranwilliams.carrd.co
+
 Email: kiranwilliams1997@gmail.com
