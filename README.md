@@ -4,7 +4,7 @@ Data Analyst | SQL | Tableau | R | Python (Learning)
 
 ## About Me
 
-Data analyst with 6+ years of experience in workforce, education, and operational analytics.
+Data analyst with 8+ years of experience in workforce, education, and operational analytics.
 
 Currently pursuing:
 - MS Data Analytics
@@ -14,9 +14,10 @@ Currently pursuing:
 
 - SQL
 - Tableau
+- Power BI
 - Excel
+- Python
 - R
-- Python (Learning)
 
 ## Featured Projects
 
