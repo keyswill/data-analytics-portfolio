@@ -21,35 +21,37 @@ Currently pursuing:
 
 ## Featured Projects
 
-### HR Analytics Project (WIP/June 2026)
+### Student Performance Analysis
 
 Tools:
-- SQL
-- Python
 - Tableau
 
 Business Problem:
-Identify factors driving employee attrition.
+Identify factors influencing students' academic performance throughout the school year.
 
 Results:
+- Attendance is the top predictor of performance.
+- IEP students dip in Q2, then surge.
+- ELL students lead for 3 quarters, then fall behind in Q4.
+- Academic interventions outperform other types.
 
 
 Project Link:
-https://github.com/keyswill/hr-analytics-project
+https://github.com/keyswill/student-performance-analysis
 
-### Retail Sales Analytics
+### Project 2
 Coming July 2026
 
-### Customer Churn Analysis
+### Project 3
 Coming August 2026
 
-### AI Sentiment Analysis
+### Project 4
 Coming September 2026
 
 ## Connect
 
 LinkedIn: https://www.linkedin.com/in/kiranwilliams/
 
-Portfolio: https://kiranwilliams.carrd.co
+Current Portfolio: https://kiranwilliams.carrd.co
 
 Email: kiranwilliams1997@gmail.com
