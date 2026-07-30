@@ -18,6 +18,18 @@ retail operations, event operations, workforce management, and K-12 education.
 
 ## Featured Projects
 
+### [Employee Satisfaction Analysis](https://github.com/keyswill/employee-satisfaction-analysis)
+
+**Tableau | Workforce Analytics | Simulated Course Data**
+
+Joined 1,000 employee profiles to 3,711 survey responses and built an
+interactive Tableau dashboard comparing satisfaction across departments,
+compensation levels, locations, and time. Normalized department-level concerns
+to avoid misleading comparisons and documented the distinction between
+association and causation.
+
+![Employee Satisfaction Analysis dashboard](https://raw.githubusercontent.com/keyswill/employee-satisfaction-analysis/main/images/employee-satisfaction-dashboard.png)
+
 ### [Student Performance Analytics](https://github.com/keyswill/student-performance-analysis)
 
 **Tableau | Education Analytics | Synthetic Data**
