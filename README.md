@@ -1,57 +1,62 @@
 # Kiran Williams
 
-Data Analyst | SQL | Tableau | R | Python (Learning)
+Business Analyst | Data Analyst | BI Analyst
 
-## About Me
-
-Data analyst with 8+ years of experience in workforce, education, and operational analytics.
-
-Currently pursuing:
-- MS Data Analytics
-- MBA
+I turn operational, education, and business data into clear dashboards and
+decision-ready recommendations. My portfolio emphasizes data cleaning,
+exploratory analysis, KPI development, dashboard design, and responsible
+interpretation of results.
 
 ## Technical Skills
 
-- SQL
-- Tableau
-- Power BI
-- Excel
-- Python
-- R
+- **Analysis:** Excel, SQL, exploratory data analysis, data cleaning
+- **Visualization:** Tableau, dashboard development, data storytelling
+- **Business:** requirements gathering, KPI definition, business analysis, data governance
+- **Currently developing:** Power BI, Python, R
 
 ## Featured Projects
 
-### Student Performance Analysis
+### [Student Performance Analytics](https://github.com/keyswill/student-performance-analysis)
 
-Tools:
-- Tableau
+**Tableau | Education Analytics | Synthetic Data**
 
-Business Problem:
-Identify factors influencing students' academic performance throughout the school year.
+Built a three-dashboard decision-support tool connecting grades, attendance,
+behavior, interventions, and student-group context for 120 simulated middle
+school students. Validated a moderate attendance-grade relationship and added
+guardrails for subgroup and intervention interpretation.
 
-Results:
-- Attendance is the top predictor of performance.
-- IEP students dip in Q2, then surge.
-- ELL students lead for 3 quarters, then fall behind in Q4.
-- Academic interventions outperform other types.
+![Student Performance Analytics dashboard](https://raw.githubusercontent.com/keyswill/student-performance-analysis/main/dashboard/quarterly-overview.png)
 
+### [Mansfield Residential Listing Analysis](https://github.com/keyswill/mansfield-residential-listing-analysis)
 
-Project Link:
-https://github.com/keyswill/student-performance-analysis
+**Tableau | Real Estate | Exploratory Data Analysis**
 
-### Project 2
-Coming July 2026
+Analyzed 336 archived Mansfield, Texas listings using outlier-aware KPIs,
+interactive filters, and geographic visualization. Identified property size as
+the strongest available price relationship and documented the limitations of
+unequal listing-type samples.
 
-### Project 3
-Coming August 2026
+![Mansfield Residential Listing Analysis dashboard](https://raw.githubusercontent.com/keyswill/mansfield-residential-listing-analysis/main/dashboard/mansfield-listing-dashboard.png)
 
-### Project 4
-Coming September 2026
+### [Electronics Sales Performance Analysis](https://github.com/keyswill/e-commerce-business-performance-analysis)
+
+**Excel | Data Cleaning | Interactive Dashboard**
+
+Cleaned 30,394 raw rows into 30,206 validated transaction lines and built an
+interactive Excel dashboard covering $5.64 million in revenue, 29,018 unique
+orders, and 33,969 units sold. The analysis shows that laptops and phones
+generated 61% of revenue while batteries led unit sales but contributed less
+than 1% of revenue.
+
+![Electronics Sales Performance dashboard](https://raw.githubusercontent.com/keyswill/e-commerce-business-performance-analysis/main/visuals/electronics-sales-dashboard.png)
+
+## Education
+
+- M.S. in Data Analytics, in progress
+- Graduate Certificate in Business Analytics, in progress
+- B.S. in Chemistry
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/kiranwilliams/
-
-Current Portfolio: https://kiranwilliams.carrd.co
-
-Email: kiranwilliams1997@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kiranwilliams/) |
+[Email](mailto:kiranwilliams1997@gmail.com)
