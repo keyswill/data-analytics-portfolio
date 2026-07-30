@@ -2,16 +2,18 @@
 
 Business Analyst | Data Analyst | BI Analyst
 
-I turn operational, education, and business data into clear dashboards and
-decision-ready recommendations. My portfolio emphasizes data cleaning,
-exploratory analysis, KPI development, dashboard design, and responsible
-interpretation of results.
+Business and data analytics professional with 8+ years of cross-functional
+experience translating operational, workforce, and education data into
+dashboards, reporting, and actionable recommendations. My background spans
+retail operations, event operations, workforce management, and K-12 education.
+
+[View Résumé (PDF)](resume/Kiran_Williams_Resume.pdf)
 
 ## Technical Skills
 
-- **Analysis:** Excel, SQL, exploratory data analysis, data cleaning
-- **Visualization:** Tableau, dashboard development, data storytelling
-- **Business:** requirements gathering, KPI definition, business analysis, data governance
+- **Analysis:** SQL, Excel, Google Sheets, Cognos Analytics, exploratory data analysis, data cleaning
+- **Visualization:** Tableau, PivotTables, PivotCharts, slicers, dashboard development, KPI reporting
+- **Business:** requirements definition, stakeholder communication, business analysis, data governance, operational reporting
 - **Currently developing:** Power BI, Python, R
 
 ## Featured Projects
@@ -50,11 +52,13 @@ than 1% of revenue.
 
 ![Electronics Sales Performance dashboard](https://raw.githubusercontent.com/keyswill/e-commerce-business-performance-analysis/main/visuals/electronics-sales-dashboard.png)
 
-## Education
+## Education and Certifications
 
-- M.S. in Data Analytics, in progress
-- Graduate Certificate in Business Analytics, in progress
-- B.S. in Chemistry
+- MBA, University of Maryland Global Campus — Expected May 2028
+- M.S. in Data Analytics, University of Maryland Global Campus — Expected May 2027, GPA: 4.0/4.0
+- Graduate Certificate in Business Analytics, University of Maryland Global Campus — Expected August 2026
+- Google Data Analytics Certificate — September 2021
+- B.A. in Chemistry, University of Maryland Baltimore County — December 2020
 
 ## Connect
 
