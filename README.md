@@ -68,7 +68,7 @@ than 1% of revenue.
 
 - MBA, University of Maryland Global Campus — Expected May 2028, GPA: 4.0/4.0
 - M.S. in Data Analytics, University of Maryland Global Campus — Expected May 2027, GPA: 4.0/4.0
-- Graduate Certificate in Business Analytics, University of Maryland Global Campus — Expected August 2026
+- Graduate Certificate in Business Analytics, University of Maryland Global Campus — August 2026
 - Google Data Analytics Certificate — September 2021
 - B.A. in Chemistry, University of Maryland Baltimore County — December 2020
 
