@@ -38,6 +38,8 @@ Built an auditable MySQL workflow that cleaned 2,941 country-year records into
 functions, Pearson correlation, peer benchmarking, and a transparent priority
 score to identify outcome disparities and countries requiring deeper review.
 
+![World Life Expectancy Analysis summary](https://raw.githubusercontent.com/keyswill/world-life-expectancy-analysis/main/images/WLE_analysis_summary.png)
+
 ### [Electronics Sales Performance Analysis](https://github.com/keyswill/e-commerce-business-performance-analysis)
 
 **Excel | Data Cleaning | Interactive Dashboard**
