@@ -18,18 +18,6 @@ retail operations, event operations, workforce management, and K-12 education.
 
 ## Featured Projects
 
-### [Employee Satisfaction Analysis](https://github.com/keyswill/employee-satisfaction-analysis)
-
-**Tableau | Workforce Analytics | Simulated Course Data**
-
-Joined 1,000 employee profiles to 3,711 survey responses and built an
-interactive Tableau dashboard comparing satisfaction across departments,
-compensation levels, locations, and time. Normalized department-level concerns
-to avoid misleading comparisons and documented the distinction between
-association and causation.
-
-![Employee Satisfaction Analysis dashboard](https://raw.githubusercontent.com/keyswill/employee-satisfaction-analysis/main/images/employee-satisfaction-dashboard.png)
-
 ### [Student Performance Analytics](https://github.com/keyswill/student-performance-analysis)
 
 **Tableau | Education Analytics | Synthetic Data**
@@ -41,16 +29,14 @@ guardrails for subgroup and intervention interpretation.
 
 ![Student Performance Analytics dashboard](https://raw.githubusercontent.com/keyswill/student-performance-analysis/main/dashboard/quarterly-overview.png)
 
-### [Mansfield Residential Listing Analysis](https://github.com/keyswill/mansfield-residential-listing-analysis)
+### [World Life Expectancy Analysis](https://github.com/keyswill/world-life-expectancy-analysis)
 
-**Tableau | Real Estate | Exploratory Data Analysis**
+**MySQL | Data Cleaning | Business Analysis**
 
-Analyzed 336 archived Mansfield, Texas listings using outlier-aware KPIs,
-interactive filters, and geographic visualization. Identified property size as
-the strongest available price relationship and documented the limitations of
-unequal listing-type samples.
-
-![Mansfield Residential Listing Analysis dashboard](https://raw.githubusercontent.com/keyswill/mansfield-residential-listing-analysis/main/dashboard/mansfield-listing-dashboard.png)
+Built an auditable MySQL workflow that cleaned 2,941 country-year records into
+2,938 validated observations covering 193 countries. Used CTEs, window
+functions, Pearson correlation, peer benchmarking, and a transparent priority
+score to identify outcome disparities and countries requiring deeper review.
 
 ### [Electronics Sales Performance Analysis](https://github.com/keyswill/e-commerce-business-performance-analysis)
 
@@ -63,6 +49,29 @@ generated 61% of revenue while batteries led unit sales but contributed less
 than 1% of revenue.
 
 ![Electronics Sales Performance dashboard](https://raw.githubusercontent.com/keyswill/e-commerce-business-performance-analysis/main/visuals/electronics-sales-dashboard.png)
+
+### [Employee Satisfaction Analysis](https://github.com/keyswill/employee-satisfaction-analysis)
+
+**Tableau | Workforce Analytics | Simulated Course Data**
+
+Joined 1,000 employee profiles to 3,711 survey responses and built an
+interactive Tableau dashboard comparing satisfaction across departments,
+compensation levels, locations, and time. Normalized department-level concerns
+to avoid misleading comparisons and documented the distinction between
+association and causation.
+
+![Employee Satisfaction Analysis dashboard](https://raw.githubusercontent.com/keyswill/employee-satisfaction-analysis/main/images/employee-satisfaction-dashboard.png)
+
+### [Mansfield Residential Listing Analysis](https://github.com/keyswill/mansfield-residential-listing-analysis)
+
+**Tableau | Real Estate | Exploratory Data Analysis**
+
+Analyzed 336 archived Mansfield, Texas listings using outlier-aware KPIs,
+interactive filters, and geographic visualization. Identified property size as
+the strongest available price relationship and documented the limitations of
+unequal listing-type samples.
+
+![Mansfield Residential Listing Analysis dashboard](https://raw.githubusercontent.com/keyswill/mansfield-residential-listing-analysis/main/dashboard/mansfield-listing-dashboard.png)
 
 ## Education and Certifications
 

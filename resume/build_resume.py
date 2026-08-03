@@ -145,14 +145,14 @@ def build():
 
     y = section(c, "CORE SKILLS", y)
     linked_parts(c, [("Analytics: ", "ResumeSans-Bold", NAVY, None)], LEFT, y, 8.8)
-    y = wrapped(c, "SQL, Excel (PivotTables, PivotCharts, slicers), Tableau, Google Sheets, Cognos Analytics, data cleaning, exploratory data analysis, dashboard development, KPI reporting, business analysis, data governance", LEFT + 44, y, RIGHT - LEFT - 44, size=8.8, leading=10.0, hanging_indent=-44)
+    y = wrapped(c, "SQL, Excel (PivotTables, PivotCharts, slicers), Tableau, Google Sheets, Cognos Analytics, data cleaning, exploratory data analysis, dashboard development, KPI reporting, business analysis, data governance", LEFT + 53, y, RIGHT - LEFT - 53, size=8.8, leading=10.0, hanging_indent=-53)
     linked_parts(c, [("Business: ", "ResumeSans-Bold", NAVY, None)], LEFT, y, 8.8)
-    y = wrapped(c, "requirements definition, stakeholder communication, workforce analytics, operational reporting, root-cause investigation, cross-functional collaboration", LEFT + 44, y, RIGHT - LEFT - 44, size=8.8, leading=10.0, hanging_indent=-44) - 5
+    y = wrapped(c, "requirements definition, stakeholder communication, workforce analytics, operational reporting, root-cause investigation, cross-functional collaboration", LEFT + 53, y, RIGHT - LEFT - 53, size=8.8, leading=10.0, hanging_indent=-53) - 5
 
     y = section(c, "SELECTED ANALYTICS PROJECTS", y)
-    y = project(c, "Employee Satisfaction Analysis", "Tableau", "https://github.com/keyswill/employee-satisfaction-analysis", "2026", "Joined 1,000 employee profiles to 3,711 survey responses and built an interactive Tableau dashboard; normalized department comparisons and identified Finance as the lowest-satisfaction department (35.8).", y)
+    y = project(c, "Student Performance Analytics", "Tableau", "https://github.com/keyswill/student-performance-analysis", "2026", "Integrated five datasets for 120 simulated students into a three-dashboard decision-support tool; identified a 12.37-point grade gap between students below and above 85% attendance.", y)
+    y = project(c, "World Life Expectancy Analysis", "MySQL", "https://github.com/keyswill/world-life-expectancy-analysis", "2026", "Built an auditable MySQL pipeline that cleaned 2,941 country-year records into 2,938 validated observations; used CTEs, window functions, Pearson correlation, and peer benchmarks to prioritize further review.", y)
     y = project(c, "Electronics Sales Performance Analysis", "Excel", "https://github.com/keyswill/e-commerce-business-performance-analysis", "2026", "Cleaned 30,394 raw rows into 30,206 validated transaction lines and built an interactive Excel dashboard summarizing $5.64M in revenue, 29,018 unique orders, and 33,969 units sold.", y)
-    y = project(c, "Mansfield Residential Listing Analysis", "Tableau", "https://github.com/keyswill/mansfield-residential-listing-analysis", "2026", "Analyzed 336 archived Mansfield, Texas listings; identified square footage as the strongest available price relationship (r = 0.656) and a 22% lower median price per square foot for foreclosures.", y)
 
     y = section(c, "EDUCATION AND CERTIFICATIONS", y)
     y = education(c, "MBA", "University of Maryland Global Campus", "Expected May 2028", y)
