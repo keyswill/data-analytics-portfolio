@@ -75,6 +75,20 @@ unequal listing-type samples.
 
 ![Mansfield Residential Listing Analysis dashboard](https://raw.githubusercontent.com/keyswill/mansfield-residential-listing-analysis/main/dashboard/mansfield-listing-dashboard.png)
 
+## Projects in Progress
+
+### [Citi Bike Operational Analytics](https://github.com/keyswill/citibike-operational-analytics)
+
+**Work in Progress | MySQL | ETL | Data Validation | Tableau**
+
+Building an end-to-end operational analytics case study using 4,674,903 May
+2026 Citi Bike trips. Completed the first phase by consolidating five source
+tables into a traceable staging layer and validating row completeness, ride-ID
+uniqueness, missing values, timestamp order, geographic ranges, categorical
+domains, and station mappings. Upcoming phases will examine demand pressure,
+station performance, rider behavior, and opportunities to improve bike
+availability and operational efficiency.
+
 ## Education and Certifications
 
 - MBA, University of Maryland Global Campus — Expected May 2028, GPA: 4.0/4.0
