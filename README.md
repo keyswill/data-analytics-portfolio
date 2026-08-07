@@ -1,54 +1,49 @@
 # Kiran Williams
 
-Business Analyst | Data Analyst | BI Analyst
+**Business Analyst | Data Analyst | BI Analyst**
 
-Business and data analytics professional with 8+ years of cross-functional
-experience translating operational, workforce, and education data into
-dashboards, reporting, and actionable recommendations. My background spans
-retail operations, event operations, workforce management, and K-12 education.
+I use data to clarify business problems, measure performance, and help people make better operational decisions. My background includes more than eight years across retail operations, event operations, workforce management, and education, giving me experience working with both the data behind a process and the people affected by it.
+
+My projects show how I approach analytical work from beginning to end: define the decision, validate the data, select useful measures, communicate limitations, and turn the results into practical recommendations.
 
 [View Résumé (PDF)](resume/Kiran_Williams_Resume.pdf)
 
 ## Technical Skills
 
-- **Analysis:** SQL, Excel, Google Sheets, Cognos Analytics, exploratory data analysis, data cleaning
-- **Visualization:** Tableau, PivotTables, PivotCharts, slicers, dashboard development, KPI reporting
-- **Business:** requirements definition, stakeholder communication, business analysis, data governance, operational reporting
-- **Currently developing:** Power BI, Python, R
+- **Analysis:** SQL, Excel, Google Sheets, Cognos Analytics, exploratory analysis, and data cleaning
+- **Visualization:** Tableau, PivotTables, PivotCharts, slicers, dashboard development, and KPI reporting
+- **Business analysis:** requirements definition, stakeholder communication, data governance, operational reporting, and process improvement
+- **Currently developing:** Power BI, Python, and R
 
 ## Featured Projects
 
 ### [Student Performance Analytics](https://github.com/keyswill/student-performance-analysis)
 
-**Tableau | Education Analytics | Synthetic Data**
+**Tableau | Education Analytics | Decision Support**
 
-Built a three-dashboard decision-support tool connecting grades, attendance,
-behavior, interventions, and student-group context for 120 simulated middle
-school students. Validated a moderate attendance-grade relationship and added
-guardrails for subgroup and intervention interpretation.
+School leaders often review grades, attendance, behavior, and interventions separately. I connected those records in a three-dashboard decision-support tool for 120 simulated middle-school students. The analysis found a moderate relationship between attendance and grades and included safeguards against overstating subgroup and intervention results.
+
+**Decision supported:** Which students, groups, and time periods should school leaders review more closely?
 
 ![Student Performance Analytics dashboard](https://raw.githubusercontent.com/keyswill/student-performance-analysis/main/dashboard/quarterly-overview.png)
 
 ### [World Life Expectancy Analysis](https://github.com/keyswill/world-life-expectancy-analysis)
 
-**MySQL | Data Cleaning | Business Analysis**
+**MySQL | Data Quality | Resource Prioritization**
 
-Built an auditable MySQL workflow that cleaned 2,941 country-year records into
-2,938 validated observations covering 193 countries. Used CTEs, window
-functions, Pearson correlation, peer benchmarking, and a transparent priority
-score to identify outcome disparities and countries requiring deeper review.
+I built an auditable MySQL workflow that converted 2,941 raw country-year records into 2,938 validated observations covering 193 countries. The analysis combines trends, peer comparisons, correlations, and a transparent priority score to identify countries that may warrant deeper program review.
+
+**Decision supported:** Where should a global health organization focus additional investigation before committing limited resources?
 
 ![World Life Expectancy Analysis summary](images/WLE_analysis_summary.png)
 
 ### [Electronics Sales Performance Analysis](https://github.com/keyswill/e-commerce-business-performance-analysis)
 
-**Excel | Data Cleaning | Interactive Dashboard**
+**Excel | Sales Analytics | Interactive Dashboard**
 
-Cleaned 30,394 raw rows into 30,206 validated transaction lines and built an
-interactive Excel dashboard covering $5.64 million in revenue, 29,018 unique
-orders, and 33,969 units sold. The analysis shows that laptops and phones
-generated 61% of revenue while batteries led unit sales but contributed less
-than 1% of revenue.
+I cleaned 30,394 raw rows into 30,206 validated transaction lines and built an Excel dashboard covering **$5.64 million in revenue**, **29,018 unique orders**, and **33,969 units sold**. The analysis showed that laptops and phones produced 61% of revenue, while batteries led unit sales but contributed less than 1% of revenue.
+
+**Decision supported:** Which products drive revenue, which drive volume, and where is sales performance concentrated?
 
 ![Electronics Sales Performance dashboard](https://raw.githubusercontent.com/keyswill/e-commerce-business-performance-analysis/main/visuals/electronics-sales-dashboard.png)
 
@@ -56,38 +51,33 @@ than 1% of revenue.
 
 **Tableau | Workforce Analytics | Simulated Course Data**
 
-Joined 1,000 employee profiles to 3,711 survey responses and built an
-interactive Tableau dashboard comparing satisfaction across departments,
-compensation levels, locations, and time. Normalized department-level concerns
-to avoid misleading comparisons and documented the distinction between
-association and causation.
+I joined 1,000 employee profiles to 3,711 survey responses and built a Tableau dashboard comparing workplace satisfaction across departments, compensation levels, locations, and time. Department concerns were normalized to support fair comparisons, and the analysis distinguishes association from causation.
+
+**Decision supported:** Which workforce concerns should leaders investigate, and where might targeted employee-support efforts be most useful?
 
 ![Employee Satisfaction Analysis dashboard](https://raw.githubusercontent.com/keyswill/employee-satisfaction-analysis/main/images/employee-satisfaction-dashboard.png)
 
 ### [Mansfield Residential Listing Analysis](https://github.com/keyswill/mansfield-residential-listing-analysis)
 
-**Tableau | Real Estate | Exploratory Data Analysis**
+**Tableau | Real Estate Analytics | Market Benchmarking**
 
-Analyzed 336 archived Mansfield, Texas listings using outlier-aware KPIs,
-interactive filters, and geographic visualization. Identified property size as
-the strongest available price relationship and documented the limitations of
-unequal listing-type samples.
+I analyzed 336 archived Mansfield, Texas listings using outlier-aware KPIs, interactive filters, and geographic visualization. Property size had the strongest available relationship with listing price, while unequal listing-type samples limited broader comparisons.
+
+**Decision supported:** How should users compare listing prices without allowing a small number of luxury properties to distort the market picture?
 
 ![Mansfield Residential Listing Analysis dashboard](https://raw.githubusercontent.com/keyswill/mansfield-residential-listing-analysis/main/dashboard/mansfield-listing-dashboard.png)
 
-## Projects in Progress
+## Project in Progress
 
 ### [Citi Bike Operational Analytics](https://github.com/keyswill/citibike-operational-analytics)
 
-**Work in Progress | MySQL | ETL | Data Validation | Tableau**
+**MySQL | ETL | Data Validation | Operational Analytics | Tableau**
 
-Building an end-to-end operational analytics case study using 4,674,903 May
-2026 Citi Bike trips. Completed the first phase by consolidating five source
-tables into a traceable staging layer and validating row completeness, ride-ID
-uniqueness, missing values, timestamp order, geographic ranges, categorical
-domains, and station mappings. Upcoming phases will examine demand pressure,
-station performance, rider behavior, and opportunities to improve bike
-availability and operational efficiency.
+I am analyzing **4,674,903 Citi Bike trips from May 2026** to determine when demand is highest, which stations handle the most activity, and where pickup and return patterns may indicate operational pressure.
+
+Data ingestion, staging, validation, and business understanding are complete. The remaining phases will cover data understanding, cleaning, exploratory analysis, recommendations, and an executive Tableau dashboard.
+
+**Decision supported:** Which stations and time periods should Citi Bike operations teams monitor or investigate first?
 
 ## Education and Certifications
 
