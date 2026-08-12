@@ -27,6 +27,16 @@ School leaders often review grades, attendance, behavior, and interventions sepa
 
 ![Student Performance Analytics dashboard](https://raw.githubusercontent.com/keyswill/student-performance-analysis/main/dashboard/quarterly-overview.png)
 
+### [Maryland 2026 Primary Turnout Analysis](projects/maryland-2026-primary-turnout-analysis)
+
+**Tableau | Civic Analytics | Geographic Performance**
+
+Statewide turnout can hide local participation differences, while raw vote totals can overemphasize larger jurisdictions. I analyzed all 24 Maryland counties and county-equivalents, comparing eligible voters, cards cast, turnout rates, non-voters, county rankings, and geographic patterns. The analysis found 16.68% statewide turnout, with county rates ranging from 12.43% to 24.11%.
+
+**Decision supported:** Which counties should election administrators, civic organizations, and outreach teams investigate first when balancing participation gaps with the size of the eligible-voter population?
+
+![Maryland 2026 Primary Turnout dashboard](https://raw.githubusercontent.com/keyswill/data-analytics-portfolio/main/projects/maryland-2026-primary-turnout-analysis/dashboard/maryland-2026-primary-turnout-dashboard.png)
+
 ### [World Life Expectancy Analysis](https://github.com/keyswill/world-life-expectancy-analysis)
 
 **MySQL | Data Quality | Resource Prioritization**
