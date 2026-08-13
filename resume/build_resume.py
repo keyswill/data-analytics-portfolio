@@ -81,7 +81,7 @@ def header(c, page):
         y -= 17
         c.setFillColor(TEXT)
         c.setFont("ResumeSans-Bold", 11.2)
-        c.drawString(LEFT, y, "BUSINESS ANALYST | DATA ANALYST | BI ANALYST")
+        c.drawString(LEFT, y, "BUSINESS ANALYST | BI ANALYST | DATA ANALYST")
         y -= 15
         linked_parts(c, [
             ("Baltimore-Washington, D.C. Area  |  240-997-3696  |  ", "ResumeSans", TEXT, None),
@@ -97,7 +97,7 @@ def header(c, page):
     c.drawString(LEFT, y, "KIRAN WILLIAMS")
     c.setFont("ResumeSans", 8.6)
     c.setFillColor(GRAY)
-    c.drawRightString(RIGHT, y, "Business Analyst | Data Analyst | BI Analyst")
+    c.drawRightString(RIGHT, y, "Business Analyst | BI Analyst | Data Analyst")
     c.setStrokeColor(RULE)
     c.line(LEFT, y - 7, RIGHT, y - 7)
     return y - 24
@@ -134,7 +134,7 @@ def job(c, title, dates, employer, bullets, y):
     return y - 4
 
 
-def project(c, name, tool, url, status, problem, work, y):
+def project(c, name, tool, url, status, problem, analysis, result, y):
     linked_parts(c, [
         (name, "ResumeSans-Bold", TEXT, None),
         (" | ", "ResumeSans", GRAY, None),
@@ -148,7 +148,9 @@ def project(c, name, tool, url, status, problem, work, y):
     y -= 13
     y = wrapped(c, "Business problem: " + problem, LEFT + 10, y, RIGHT - LEFT - 12,
                 size=8.8, leading=10.3, first_indent=10, hanging_indent=14, bullet=True)
-    y = wrapped(c, "Analysis and business value: " + work, LEFT + 10, y, RIGHT - LEFT - 12,
+    y = wrapped(c, "Data and analysis: " + analysis, LEFT + 10, y, RIGHT - LEFT - 12,
+                size=8.8, leading=10.3, first_indent=10, hanging_indent=14, bullet=True)
+    y = wrapped(c, "Result and decision support: " + result, LEFT + 10, y, RIGHT - LEFT - 12,
                 size=8.8, leading=10.3, first_indent=10, hanging_indent=14, bullet=True)
     return y - 13
 
@@ -163,30 +165,19 @@ def build():
     # Page 1: qualifications and business-focused analytics projects
     y = header(c, 1)
     y = section(c, "PROFESSIONAL SUMMARY", y)
-    y = wrapped(c, "Business and data analytics professional with 8+ years of experience across operations, workforce management, and education. Uses SQL, Excel, Tableau, and Cognos Analytics to turn complex data into clear reporting, dashboards, and practical recommendations. Brings strong stakeholder communication, customer service, and problem-solving skills to cross-functional teams.", LEFT, y, RIGHT - LEFT, size=9.0, leading=10.7) - 7
+    y = wrapped(c, "Business intelligence and analytics professional with 8+ years of experience across operations, workforce management, and education. Defines business questions and KPIs, validates data, and uses SQL, Excel, Tableau, and Cognos Analytics to build decision-ready reporting and dashboards. Brings strong stakeholder communication, customer service, and problem-solving skills to cross-functional teams.", LEFT, y, RIGHT - LEFT, size=9.0, leading=10.7) - 7
 
     y = section(c, "CORE SKILLS", y)
     y = wrapped(c, "Analytics: SQL, Excel (PivotTables, PivotCharts, slicers), Tableau, Google Sheets, Cognos Analytics, data cleaning, exploratory analysis, dashboard development, KPI reporting, data validation, data governance", LEFT, y, RIGHT - LEFT, size=8.85, leading=10.4)
-    y = wrapped(c, "Business: requirements definition, stakeholder communication, business problem framing, operational reporting, workforce analytics, root-cause investigation, process improvement, cross-functional collaboration", LEFT, y, RIGHT - LEFT, size=8.85, leading=10.4) - 7
+    y = wrapped(c, "Business: requirements definition, stakeholder communication, business problem framing, KPI definition, decision support, operational reporting, root-cause investigation, process improvement, cross-functional collaboration", LEFT, y, RIGHT - LEFT, size=8.85, leading=10.4) - 7
 
     y = section(c, "PORTFOLIO PROJECTS", y)
-    y = project(c, "Citi Bike Operational Analytics", "MySQL, Tableau", "https://github.com/keyswill/citibike-operational-analytics", "In progress", "Operations teams need to know when and where completed trip patterns may signal pressure on bike or dock availability.", "Consolidated and validated 4,674,903 May 2026 rides from five source tables; defined station activity, net flow, imbalance, and time-based measures that will help prioritize stations for monitoring and rebalancing investigation without claiming confirmed shortages.", y)
+    y = project(c, "Student Performance Analytics", "Tableau", "https://github.com/keyswill/student-performance-analysis", "2026", "School leaders need one repeatable view of grades, attendance, behavior, interventions, and subgroup context to identify academic risk and prioritize student review.", "Defined stakeholder requirements and connected five synthetic datasets covering 120 students, 480 grade records, 480 attendance records, 863 incidents, and 119 interventions. Built three dashboards with calculated fields, parameters, LOD expressions, filters, and dashboard actions.", "Identified a 0.507 attendance-grade correlation and a 12.37-point grade difference below versus at-or-above 85% attendance. The dashboard supports schoolwide monitoring, subgroup investigation, and individual review while keeping intervention decisions under human judgment.", y)
 
-    y = project(c, "Student Performance Analytics", "Tableau", "https://github.com/keyswill/student-performance-analysis", "2026", "School leaders need to combine grades, attendance, behavior, and intervention history to identify students and groups requiring earlier review.", "Integrated five synthetic datasets for 120 students into three dashboards; found a 12.37-point grade difference below versus at-or-above 85% attendance, supporting attendance as a human-review trigger rather than an automatic intervention rule.", y)
+    y = project(c, "World Life Expectancy Analysis", "MySQL", "https://github.com/keyswill/world-life-expectancy-analysis", "2026", "A global health organization needs an auditable way to monitor outcomes, compare economic peers, and prioritize countries for deeper review when resources are limited.", "Preserved the raw layer and converted 2,941 records into 2,938 validated country-year observations across 193 countries. Used CTEs, window functions, conditional aggregation, correlations, longitudinal trends, GDP-peer benchmarks, and a transparent six-indicator score.", "Found a 4.87-year increase in average life expectancy from 2007 to 2022 and identified schooling as the strongest positive correlate (r = 0.784). The workflow produces a traceable second-stage review list rather than an automatic funding decision.", y)
 
-    y = project(c, "World Life Expectancy Analysis", "MySQL", "https://github.com/keyswill/world-life-expectancy-analysis", "2026", "A global health organization needs a transparent way to prioritize countries for deeper investigation when analytical resources are limited.", "Cleaned 2,941 records into 2,938 validated country-year observations and used CTEs, window functions, correlation, GDP-peer benchmarks, and a six-indicator screening score to create an auditable review list rather than an automatic funding decision.", y)
+    y = project(c, "Electronics Sales Performance Analysis", "Excel", "https://github.com/keyswill/e-commerce-business-performance-analysis", "2026", "Sales leaders need to distinguish revenue-driving products from volume-driving products and understand where performance is concentrated across markets and categories.", "Cleaned 30,394 raw rows into 30,206 validated transaction lines, standardized dates and addresses, defined revenue and order KPIs, and built an interactive Excel dashboard with PivotTables, PivotCharts, and connected city and category slicers.", "Reported $5.64M in revenue, 29,018 unique orders, and 33,969 units sold. Laptops and phones generated 61% of revenue, while batteries led volume but produced less than 1% of revenue, supporting separate merchandising decisions for demand and value.", y)
 
-    y = project(c, "Electronics Sales Performance Analysis", "Excel", "https://github.com/keyswill/e-commerce-business-performance-analysis", "2026", "Sales leaders need to distinguish high-volume products from high-revenue products and understand how concentrated performance is across the catalog.", "Cleaned 30,394 rows into 30,206 validated transaction lines and built an interactive dashboard for $5.64M revenue, 29,018 orders, and 33,969 units; showed that laptops and phones produced 61% of revenue while batteries led unit volume, supporting separate merchandising views of demand and value.", y)
-
-    y = project(c, "Employee Satisfaction Analysis", "Tableau", "https://github.com/keyswill/employee-satisfaction-analysis", "2026", "HR leaders need to locate satisfaction gaps and recurring concerns without allowing unequal department sizes or confounding factors to distort comparisons.", "Joined 3,711 survey responses to 1,000 employee profiles, normalized concern shares within departments, and identified Finance as the lowest-satisfaction group; the dashboard directs targeted listening and commute or compensation investigation without claiming causality.", y)
-
-    if y < 36:
-        raise RuntimeError(f"Page 1 overflow: final y={y}")
-    footer(c, 1)
-    c.showPage()
-
-    # Page 2: education and professional experience
-    y = header(c, 2)
     y = section(c, "EDUCATION AND CERTIFICATIONS", y)
     y = education(c, "MBA (GPA: 4.0/4.0)", "University of Maryland Global Campus", "Expected May 2028", y)
     y = education(c, "M.S., Data Analytics (GPA: 4.0/4.0)", "University of Maryland Global Campus", "Expected May 2027", y)
@@ -194,6 +185,13 @@ def build():
     y = education(c, "Google Data Analytics Certificate", "Google", "Sep 2021", y)
     y = education(c, "B.A., Chemistry", "University of Maryland Baltimore County", "Dec 2020", y) - 3
 
+    if y < 36:
+        raise RuntimeError(f"Page 1 overflow: final y={y}")
+    footer(c, 1)
+    c.showPage()
+
+    # Page 2: professional experience
+    y = header(c, 2)
     y = section(c, "PROFESSIONAL EXPERIENCE", y)
     y = job(c, "Retail Operations Associate", "Nov 2025-Present", "Kohl's, Laurel, MD", [
         "Support inventory processing and order fulfillment across a 2,000+ unit environment while adapting to changing daily operational priorities.",
