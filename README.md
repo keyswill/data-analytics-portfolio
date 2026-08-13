@@ -27,7 +27,7 @@ School leaders often review grades, attendance, behavior, and interventions sepa
 
 ![Student Performance Analytics dashboard](https://raw.githubusercontent.com/keyswill/student-performance-analysis/main/dashboard/quarterly-overview.png)
 
-### [Maryland 2026 Primary Turnout Analysis](projects/maryland-2026-primary-turnout-analysis)
+### [Maryland 2026 Primary Turnout Analysis](https://github.com/keyswill/maryland-2026-primary-turnout-analysis)
 
 **Tableau | Civic Analytics | Geographic Performance**
 
@@ -35,7 +35,7 @@ Statewide turnout can hide local participation differences, while raw vote total
 
 **Decision supported:** Which counties should election administrators, civic organizations, and outreach teams investigate first when balancing participation gaps with the size of the eligible-voter population?
 
-![Maryland 2026 Primary Turnout dashboard](https://raw.githubusercontent.com/keyswill/data-analytics-portfolio/main/projects/maryland-2026-primary-turnout-analysis/dashboard/maryland-2026-primary-turnout-dashboard.png)
+![Maryland 2026 Primary Turnout dashboard](https://raw.githubusercontent.com/keyswill/maryland-2026-primary-turnout-analysis/main/dashboard/maryland-2026-primary-turnout-dashboard.png)
 
 ### [World Life Expectancy Analysis](https://github.com/keyswill/world-life-expectancy-analysis)
 
