@@ -85,7 +85,7 @@ I analyzed 336 archived Mansfield, Texas listings using outlier-aware KPIs, inte
 
 I am analyzing **4,674,903 Citi Bike trips from May 2026** to determine when demand is highest, which stations handle the most activity, and where pickup and return patterns may indicate operational pressure.
 
-Data ingestion, staging, validation, business understanding, and data understanding are complete. The remaining phases will cover cleaning, exploratory analysis, recommendations, and an executive Tableau dashboard.
+Data ingestion, staging, validation, business understanding, data understanding, and cleaning are complete. I built and validated a traceable analytical table containing all 4,674,903 rides, with reusable time dimensions and explicit flags for reporting-boundary and long-duration records. The remaining work will cover exploratory analysis, recommendations, and an executive Tableau dashboard.
 
 **Decision supported:** Which stations and time periods should Citi Bike operations teams monitor or investigate first?
 
