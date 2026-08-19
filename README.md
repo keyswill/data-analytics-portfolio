@@ -17,7 +17,7 @@ My projects show how I approach analytical work from beginning to end: define th
 
 ## Featured Projects
 
-### [Student Performance Analytics](https://github.com/keyswill/student-performance-analysis)
+### [Student Performance Analytics](https://github.com/keyswill/student-academic-risk-analysis)
 
 **Tableau | Education Analytics | Decision Support**
 
@@ -25,9 +25,9 @@ School leaders often review grades, attendance, behavior, and interventions sepa
 
 **Decision supported:** Which students, groups, and time periods should school leaders review more closely?
 
-![Student Performance Analytics dashboard](https://raw.githubusercontent.com/keyswill/student-performance-analysis/main/dashboard/quarterly-overview.png)
+![Student Performance Analytics dashboard](https://raw.githubusercontent.com/keyswill/student-academic-risk-analysis/main/dashboard/quarterly-overview.png)
 
-### [Maryland 2026 Primary Turnout Analysis](https://github.com/keyswill/maryland-2026-primary-turnout-analysis)
+### [Maryland 2026 Primary Turnout Analysis](https://github.com/keyswill/maryland-voter-outreach-analysis)
 
 **Tableau | Civic Analytics | Geographic Performance**
 
@@ -35,9 +35,9 @@ Statewide turnout can hide local participation differences, while raw vote total
 
 **Decision supported:** Which counties should election administrators, civic organizations, and outreach teams investigate first when balancing participation gaps with the size of the eligible-voter population?
 
-![Maryland 2026 Primary Turnout dashboard](https://raw.githubusercontent.com/keyswill/maryland-2026-primary-turnout-analysis/main/dashboard/maryland-2026-primary-turnout-dashboard.png)
+![Maryland 2026 Primary Turnout dashboard](https://raw.githubusercontent.com/keyswill/maryland-voter-outreach-analysis/main/dashboard/maryland-2026-primary-turnout-dashboard.png)
 
-### [World Life Expectancy Analysis](https://github.com/keyswill/world-life-expectancy-analysis)
+### [World Life Expectancy Analysis](https://github.com/keyswill/global-health-prioritization-sql)
 
 **MySQL | Data Quality | Resource Prioritization**
 
@@ -47,7 +47,7 @@ I built an auditable MySQL workflow that converted 2,941 raw country-year record
 
 ![World Life Expectancy Analysis summary](images/WLE_analysis_summary.png)
 
-### [Electronics Sales Performance Analysis](https://github.com/keyswill/e-commerce-business-performance-analysis)
+### [Electronics Sales Performance Analysis](https://github.com/keyswill/product-revenue-demand-analysis)
 
 **Excel | Sales Analytics | Interactive Dashboard**
 
@@ -55,9 +55,9 @@ I cleaned 30,394 raw rows into 30,206 validated transaction lines and built an E
 
 **Decision supported:** Which products drive revenue, which drive volume, and where is sales performance concentrated?
 
-![Electronics Sales Performance dashboard](https://raw.githubusercontent.com/keyswill/e-commerce-business-performance-analysis/main/visuals/electronics-sales-dashboard.png)
+![Electronics Sales Performance dashboard](https://raw.githubusercontent.com/keyswill/product-revenue-demand-analysis/main/visuals/electronics-sales-dashboard.png)
 
-### [Employee Satisfaction Analysis](https://github.com/keyswill/employee-satisfaction-analysis)
+### [Employee Satisfaction Analysis](https://github.com/keyswill/workforce-satisfaction-gap-analysis)
 
 **Tableau | Workforce Analytics | Simulated Course Data**
 
@@ -65,9 +65,9 @@ I joined 1,000 employee profiles to 3,711 survey responses and built a Tableau d
 
 **Decision supported:** Which workforce concerns should leaders investigate, and where might targeted employee-support efforts be most useful?
 
-![Employee Satisfaction Analysis dashboard](https://raw.githubusercontent.com/keyswill/employee-satisfaction-analysis/main/images/employee-satisfaction-dashboard.png)
+![Employee Satisfaction Analysis dashboard](https://raw.githubusercontent.com/keyswill/workforce-satisfaction-gap-analysis/main/images/employee-satisfaction-dashboard.png)
 
-### [Mansfield Residential Listing Analysis](https://github.com/keyswill/mansfield-residential-listing-analysis)
+### [Mansfield Residential Listing Analysis](https://github.com/keyswill/residential-listing-benchmark-analysis)
 
 **Tableau | Real Estate Analytics | Market Benchmarking**
 
@@ -75,11 +75,11 @@ I analyzed 336 archived Mansfield, Texas listings using outlier-aware KPIs, inte
 
 **Decision supported:** How should users compare listing prices without allowing a small number of luxury properties to distort the market picture?
 
-![Mansfield Residential Listing Analysis dashboard](https://raw.githubusercontent.com/keyswill/mansfield-residential-listing-analysis/main/dashboard/mansfield-listing-dashboard.png)
+![Mansfield Residential Listing Analysis dashboard](https://raw.githubusercontent.com/keyswill/residential-listing-benchmark-analysis/main/dashboard/mansfield-listing-dashboard.png)
 
 ## Project in Progress
 
-### [Citi Bike Operational Analytics](https://github.com/keyswill/citibike-operational-analytics)
+### [Citi Bike Operational Analytics](https://github.com/keyswill/citibike-availability-pressure-analysis)
 
 **MySQL | ETL | Data Validation | Operational Analytics | Tableau**
 
