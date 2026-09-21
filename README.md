@@ -54,8 +54,6 @@ I built an auditable MySQL workflow that converted 2,941 raw country-year record
 
 **Decision supported:** Where should a global health organization focus additional investigation before committing limited resources?
 
-![Prioritizing Global Health Needs with Auditable SQL summary](images/WLE_analysis_summary.png)
-
 ### [Balancing Revenue and Unit Demand for Product Strategy](https://github.com/keyswill/product-revenue-demand-analysis)
 
 **Excel | Sales Analytics | Interactive Dashboard**
