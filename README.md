@@ -94,7 +94,7 @@ I analyzed 336 archived Mansfield, Texas listings using outlier-aware KPIs, inte
 
 
 
-targeted monitoring pilot using live inventory and dock-capacity data. An executive Tableau dashboard is the remaining project deliverable.
+project deliverable.
 
 
 
