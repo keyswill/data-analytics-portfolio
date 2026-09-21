@@ -17,6 +17,15 @@ My projects show how I approach analytical work from beginning to end: define th
 
 ## Featured Projects
 
+### [Identifying Citi Bike Availability Pressure Through Trip Patterns](https://github.com/keyswill/citibike-availability-pressure-analysis)
+
+**MySQL | ETL | Data Validation | Operational Analytics**
+
+I built a reproducible MySQL workflow that combined five source files into a validated analytical table containing 4,674,903 Citi Bike rides. The project covers data ingestion, staging, cleaning, time-based demand analysis, rider and bike segmentation, station activity, and directional station flow. The analysis found that monthly station balance can conceal recurring hourly reversals, including a shift at 9 Ave & W 33 St from 1,324 net arrivals at 8 a.m. to 1,705 net departures at 5 p.m.
+
+**Decision supported:** Which stations and time periods should Citi Bike operations teams investigate first when prioritizing monitoring, live-inventory analysis, and possible rebalancing interventions?
+
+
 ### [Identifying Academic Risk Through Integrated Student Data](https://github.com/keyswill/student-academic-risk-analysis)
 
 **Tableau | Education Analytics | Decision Support**
@@ -77,17 +86,17 @@ I analyzed 336 archived Mansfield, Texas listings using outlier-aware KPIs, inte
 
 ![Benchmarking Residential Listings with Outlier-Aware Analysis dashboard](https://raw.githubusercontent.com/keyswill/residential-listing-benchmark-analysis/main/dashboard/mansfield-listing-dashboard.png)
 
-## Project in Progress
 
-### [Identifying Citi Bike Availability Pressure Through Trip Patterns](https://github.com/keyswill/citibike-availability-pressure-analysis)
 
-**MySQL | ETL | Data Validation | Operational Analytics | Tableau**
 
-I am analyzing **4,674,903 Citi Bike trips from May 2026** to determine when demand is highest, which stations handle the most activity, and where pickup and return patterns may indicate operational pressure.
 
-Data preparation, exploratory analysis, and executive recommendations are complete. I built and validated a traceable analytical table containing all 4,674,903 rides and found distinct weekday commute peaks, stronger casual demand on weekends, and recurring station-hour flow reversals hidden by balanced monthly totals. The recommended next step is a targeted monitoring pilot using live inventory and dock-capacity data. An executive Tableau dashboard is the remaining project deliverable.
 
-**Decision supported:** Which stations and time periods should Citi Bike operations teams monitor or investigate first?
+
+
+
+targeted monitoring pilot using live inventory and dock-capacity data. An executive Tableau dashboard is the remaining project deliverable.
+
+
 
 ## Education and Certifications
 
