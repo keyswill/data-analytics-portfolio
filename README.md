@@ -94,7 +94,7 @@ I analyzed 336 archived Mansfield, Texas listings using outlier-aware KPIs, inte
 
 
 
-project deliverable.
+
 
 
 
