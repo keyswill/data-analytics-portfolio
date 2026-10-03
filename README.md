@@ -1,6 +1,6 @@
 # Kiran Williams
 
-**Business Analyst | Data Analyst | BI Analyst**
+**Business Analyst | Data Analyst | Operations Analyst**
 
 I am a data and business analytics professional with more than eight years of experience across operations, education, customer service, and workforce coordination. I am currently pursuing an M.S. in Data Analytics and an MBA, building on additional training in business analytics and data analysis.
 
