@@ -17,7 +17,7 @@ My work focuses on using data to identify patterns, improve processes, support s
 
 ## Featured Projects
 
-### NFL Skill Position Efficiency: Separating Production from Opportunity *(In Progress)*
+### [NFL Skill Position Efficiency: Separating Production from Opportunity](https://github.com/keyswill/nfl-2025-skill-position-efficiency) *(In Progress)*
 
 **Python | pandas | NumPy | Matplotlib | NFL Analytics**
 
