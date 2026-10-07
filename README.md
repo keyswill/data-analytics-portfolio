@@ -17,6 +17,17 @@ My work focuses on using data to identify patterns, improve processes, support s
 
 ## Featured Projects
 
+### NFL Skill Position Efficiency: Separating Production from Opportunity *(In Progress)*
+
+**Python | pandas | NumPy | Matplotlib | NFL Analytics**
+
+I am analyzing 2025 NFL regular-season running back and wide receiver performance to distinguish raw production from efficiency. The project compares player workload, opportunity, and output, then groups players into workload-efficiency profiles to identify high-volume stars, volume-dependent producers, and potentially underutilized efficient players.
+
+**Analytical question:** Which running backs and wide receivers created the most value in 2025 once workload and opportunity are considered?
+
+**Planned extension:** Add a machine-learning phase after the exploratory analysis is complete to test whether player opportunity and efficiency metrics can help predict future production.
+
+
 ### [Identifying Citi Bike Availability Pressure Through Trip Patterns](https://github.com/keyswill/citibike-availability-pressure-analysis)
 
 **MySQL | ETL | Data Validation | Operational Analytics**
