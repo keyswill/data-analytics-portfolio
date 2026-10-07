@@ -2,18 +2,20 @@
 
 **Business Analyst | Data Analyst**
 
-I am a data and business analytics professional with more than eight years of experience across operations, education, customer service, and workforce coordination. I am currently pursuing an M.S. in Data Analytics and an MBA, building on additional training in business analytics and data analysis.
+I am a data and business analytics professional with more than eight years of experience across operations, education, customer service, and workforce coordination. I am currently pursuing an M.S. in Data Analytics and an MBA, with hands-on project experience using SQL, Python, Excel, and Tableau to clean, analyze, visualize, and interpret data.
 
-My work focuses on using data to identify patterns, improve processes, support staffing and performance decisions, and communicate insights to technical and non-technical audiences. Across my portfolio, I use tools including SQL, Python, Excel, Tableau, and Cognos Analytics to clean and validate data, build reports and dashboards, investigate operational questions, and translate findings into practical recommendations.
+My work applies statistical analysis, machine learning, dashboard development, and data management to business, operational, and academic problems. I combine analytical thinking, process-improvement experience, and stakeholder communication to translate complex findings into practical recommendations.
 
 [View Résumé (PDF)](resume/Kiran_Williams_Resume.pdf)
 
 ## Technical Skills
 
-- **Languages & libraries:** SQL, Python, R, NumPy, pandas, Matplotlib
-- **Tools:** Excel, Tableau, Google Sheets, Cognos Analytics, MySQL Workbench, GitHub
-- **Analytics:** ETL, EDA, data wrangling, cleaning, validation, visualization, statistical analysis, KPI and dashboard design, window functions, CTEs, and data governance
-- **Business analysis:** requirements definition, operational reporting, root-cause analysis, process improvement, decision support, stakeholder communication, and cross-functional collaboration
+- **Programming & libraries:** SQL, Python, R, pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn
+- **Tools:** Excel, Tableau, Google Sheets, Cognos Analytics, MySQL Workbench, Jupyter Notebook, GitHub
+- **Data analysis:** exploratory data analysis, data cleaning, statistical analysis, data visualization, feature engineering, KPI development, correlation analysis
+- **Machine learning:** classification, logistic regression, Naive Bayes, decision trees, k-means clustering, PCA, anomaly detection, model evaluation
+- **Data management:** ETL, data validation, relational databases, schema design, CTEs, window functions, data governance
+- **Business analysis:** requirements definition, operational reporting, root-cause analysis, process improvement, stakeholder communication, decision support
 
 ## Featured Projects
 
@@ -107,13 +109,13 @@ I analyzed 336 archived Mansfield, Texas listings using outlier-aware KPIs, inte
 
 
 
-## Education and Certifications
+## Education
 
-- MBA, University of Maryland Global Campus — Expected May 2028, GPA: 4.0/4.0
-- M.S. in Data Analytics, University of Maryland Global Campus — Expected May 2027, GPA: 4.0/4.0
-- Graduate Certificate in Business Analytics, University of Maryland Global Campus — August 2026
-- Google Data Analytics Certificate — September 2021
-- B.A. in Chemistry, University of Maryland Baltimore County — December 2020
+- **MBA**, University of Maryland Global Campus — Expected May 2028, GPA: 4.0/4.0  
+  Relevant Coursework: Marketing Management
+- **M.S. in Data Analytics**, University of Maryland Global Campus — Expected May 2027, GPA: 4.0/4.0  
+  Relevant Coursework: Machine Learning, Data Management, Data Visualization, Decision Analytics, AI Ethics
+- **B.A. in Chemistry**, University of Maryland Baltimore County — December 2020
 
 ## Connect
 
