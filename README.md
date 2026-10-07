@@ -6,7 +6,7 @@ I am a data and business analytics professional with more than eight years of ex
 
 My work applies statistical analysis, machine learning, dashboard development, and data management to business, operational, and academic problems. I combine analytical thinking, process-improvement experience, and stakeholder communication to translate complex findings into practical recommendations.
 
-[View Résumé (PDF)](resume/Kiran_Williams_Resume.pdf)
+[View Résumé (PDF)](resume/Kiran_Williams_General_Resume.pdf)
 
 ## Technical Skills
 
